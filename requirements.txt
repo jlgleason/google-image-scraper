@@ -1,0 +1,4 @@
+aiohttp
+pyppeteer
+beautifulsoup4
+lxml
