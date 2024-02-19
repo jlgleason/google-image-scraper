@@ -6,6 +6,7 @@ This repository contains a python script that scrapes image results from Google/
 ### Example Usage
 
 Google: `python3 image_crawler.py -fp qrys.txt -s google -n 50`
+
 Bing: `python3 image_crawler.py -fp qrys.txt -s bing -n 50`
 
 ### References 
